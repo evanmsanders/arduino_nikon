@@ -1,5 +1,5 @@
 /*
- * Nikon Intervalometer Library
+ * Nikon IR Remote Trigger Library
  * by Evan M. Sanders
  * based on code from outofjungle (github.com/outofjungle)
  */
