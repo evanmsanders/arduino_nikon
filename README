@@ -1,0 +1,14 @@
+Arduino Library for Controlling a Nikon Camera via IR
+=====================================================
+
+by Evan M. Sanders
+evanmsanders.com, github.com/evanmsanders
+
+Based on code by outofjungle (github.com/outofjungle).
+
+Usage:
+
+1. Copy the arduino_nikon folder into your Arduino libraries folder.
+2. Include the library with #include <nikon.h>
+3. Initialise it with "nikon nikon(n)" where n is your IR LED pin.
+4. Take a picture with "nikon.snap()"
